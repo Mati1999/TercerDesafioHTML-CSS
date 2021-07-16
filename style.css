@@ -8,7 +8,7 @@ body{
     font-size: 18px;
     font-family: 'Kumbh Sans', sans-serif;
     background-color:hsl(185, 75%, 39%) ;
-    background-image: url(Images/bg-pattern-top.svg) , url(Images/bg-pattern-bottom.svg) ;
+    background-image: url(bg-pattern-top.svg) , url(bg-pattern-bottom.svg) ;
     background-position: left top, right bottom;
     background-repeat: no-repeat,no-repeat;
     background-size: 25rem, 25rem;
@@ -28,7 +28,7 @@ body{
     width: 22rem;
     background: white;
     overflow: hidden;
-    background-image: url(Images/bg-pattern-card.svg);
+    background-image: url(bg-pattern-card.svg);
     background-repeat: repeat-x;
     background-size: 18rem;
     display: flex;
