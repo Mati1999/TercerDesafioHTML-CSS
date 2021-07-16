@@ -29,8 +29,8 @@ body{
     background: white;
     overflow: hidden;
     background-image: url(bg-pattern-card.svg);
-    background-repeat: repeat-x;
-    background-size: 18rem;
+    background-repeat: no-repeat;
+    background-size: 100% 7rem;
     display: flex;
     flex-direction: column;
     align-items: center;
